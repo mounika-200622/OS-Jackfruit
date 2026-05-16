@@ -2,8 +2,8 @@
 
 ## Student Details
 
-* Name: Pavana P
-* SRN: PES1UG24CS320
+* Name: PT Mounika
+* SRN: PES1UG24CS311
 
 ---
 
