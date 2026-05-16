@@ -1,0 +1,1 @@
+cmd_/home/sharvari_naik/os-jack/Module.symvers := sed 's/\.ko$$/\.o/' /home/sharvari_naik/os-jack/modules.order | scripts/mod/modpost -m -a  -o /home/sharvari_naik/os-jack/Module.symvers -e -i Module.symvers   -T -
